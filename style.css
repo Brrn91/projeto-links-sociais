@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+  --font01: 'Inter', sans-serif;
+
+  --color-destaque: hsl(75, 94%, 57%);
+
+  --color01: hsl(0, 0%, 100%);
+  --color02: hsl(0, 0%, 20%);
+  --color03: hsl(0, 0%, 12%);
+  --color04: hsl(0, 0%, 8%);
+}
+
+  body {
+  font-family: var(--font01);
+  background-color: var(--color04);
+  color: var(--color01);
+  margin: 200px;
+  text-align: center;
+  }
+
+  main {
+  width: 450px;
+  height: 700px;
+  margin: auto;
+  border-radius: 20px;
+  background-color: var(--color03);
+  padding: 50px 30px 50px 30px;
+}
+
+header > p {
+margin-bottom: 30px;
+}
+
+header > h1 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+nav > a > div {
+  font-weight: bolder;
+  background-color: var(--color02);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+nav > a > div:hover {
+  background-color: var(--color-destaque);
+  color: var(--color04);
+}
+
+nav > a {
+  text-decoration: none;
+  color: var(--color01);
+}
+
+p {
+  margin: 0;
+}
+
+p.destaque {
+  color: var(--color-destaque);
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+  img {
+  border-radius: 50%;
+  width: 150px;
+  }
+
+  footer {
+  margin-top: 60px;
+  }
+
+  footer > div > a {
+  text-decoration: none;
+  color: var(--color01);
+  font-weight: bold;
+  }
+
+  footer > div > a:hover {
+  color: var(--color-destaque);
+  }
