@@ -1,25 +1,30 @@
-# 🌐 Projeto de Site Responsivo
+# 🌐 Projeto Links Sociais
 
-Este é um projeto de site com links sociais, desenvolvido como exercício pelo site [Frontend Mentor](https://www.frontendmentor.io).  
-O objetivo foi praticar **HTML5** e **CSS3**.
+Aplicação simples e responsiva para reunir todos os seus links em um só lugar, como um **cartão de visitas digital**.  
+Inspirado em ferramentas como Linktree, mas desenvolvido do zero com **HTML e CSS**.
 
-![PREVIEW](./preview.jpg)
+---
 
-## 📚 Tecnologias Utilizadas
+## 🖼️ Demonstração
 
-- **HTML5** – estrutura do conteúdo
-- **CSS3** – estilização e responsividade
+![Screenshot do Projeto](./preview.jpg)
 
-## 🛠️ Recursos Aprendidos e Aplicados
+👉 [Acesse o projeto online](https://brrn91.github.io/projeto-links-sociais/)
 
-- Uso correto de tags semânticas
-- Estruturação de layout com **divs** e **sections**
-- Aplicação de imagens flexíveis
-- Ajuste de fontes e espaçamentos conforme o dispositivo
+---
 
-## 🔗 Acesse o Projeto
+## 🛠️ Tecnologias Utilizadas
+- **HTML5**
+- **CSS3**
+- Responsividade para diferentes dispositivos
 
-[🔍 Clique aqui para ver online](https://brrn91.github.io/site-responsivo/)
+---
+
+## ⚙️ Funcionalidades
+- ✅ Exibe avatar e nome do usuário  
+- ✅ Lista de links personalizáveis  
+- ✅ Design limpo e responsivo  
+- 🚀 Fácil de publicar no GitHub Pages  
 
 ---
 
